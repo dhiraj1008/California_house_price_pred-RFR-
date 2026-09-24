@@ -34,5 +34,12 @@ A baseline **Multiple Linear Regression** model was evaluated against an ensembl
 
 ---
 
-## 🏗 Architecture & Machine Learning Pipelines
-sent by praveen anna
+## 🏗 Machine Learning Pipelines
+
+
+* Data Collection and Import
+* Exploratory Data Analysis & Data Cleaning (Handling Nulls and Duplicates)
+* Feature Selection & Data Splitting
+* Feature Scaling (Standardization)
+* Model Building & Training
+* Model Evaluation
